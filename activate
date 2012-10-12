@@ -1,0 +1,9 @@
+export CLAW=/home/memmett/projects/clawpack
+export PYCLAW=$CLAW/pyclaw
+export RIEMANN=$CLAW/riemann
+export VISCLAW=$CLAW/visclaw
+
+export PYTHONPATH=$PYTHONPATH:/home/memmett/projects/clawpack
+
+
+
